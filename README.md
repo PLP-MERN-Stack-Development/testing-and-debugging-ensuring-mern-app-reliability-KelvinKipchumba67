@@ -181,10 +181,13 @@ Screenshots:
 
 You would take a screenshot of the HTML report (usually found in coverage/server/lcov-report/index.html) and place it here.
 
-[Server Coverage Report](./docs/images/image1.png)
-[Server Coverage Report](./docs/images/image2.png)
-[Server Coverage Report](./docs/images/image3.png)
-[Server Coverage Report](./docs/images/image4.png)
+[ Coverage Repor 1](./docs/images/image1.png)
+
+[Coverage Report 2](./docs/images/image2.png)
+
+[ Coverage Report 3](./docs/images/image3.png)
+
+[Coverage Report 4](./docs/images/image4.png)
 
 Client (Unit) Test Coverage
 You would run npx jest --selectProjects client and paste the text output and screenshot here, just like the server one.
